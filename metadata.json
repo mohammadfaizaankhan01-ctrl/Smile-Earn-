@@ -1,0 +1,7 @@
+{
+  "name": "SmileEarn",
+  "description": "A Web3 AI Smile-to-Earn experience rewarding genuine smiles with crypto tokens.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
